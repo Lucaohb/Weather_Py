@@ -71,7 +71,7 @@ st.title("Monitoramento Climático")
 
 # Lista de cidades da região de Limeira até São Paulo (capital)
 cidades = [
-    "Limeira", "Americana", "Piracicaba", "Campinas", "Santa Bárbara D'Oeste",
+    "Limeira", "Rio Claro", "Americana", "Piracicaba", "Campinas", "Santa Bárbara D'Oeste",
     "Sumaré", "Hortolândia", "Jundiaí", "Valinhos", "Vinhedo", "Itupeva", 
     "Itatiba", "Indaiatuba", "São Paulo"
 ]
